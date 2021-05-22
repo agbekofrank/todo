@@ -55,6 +55,7 @@ h1, h2, h3, h4, h5{
     border-radius: 6px;
     
     margin: 10px;
+    transition: all 500ms;
 
 }
 .box.to-do{
@@ -70,5 +71,6 @@ h1, h2, h3, h4, h5{
     color: rgb(206, 201, 206);
     cursor: pointer; 
     box-shadow: 2px 2px rgb(163, 150, 148);
+    transform: scale(1.1);
 
 }
